@@ -19,8 +19,15 @@ Features include admin login, CRUD operations for students and grades, average c
    git clone https://github.com/<Your_name>/student-management-system-python.git
    cd student-management-system-python
 
-   2. ```bash
+2. ```bash
    python student_management.py
+
+![Demo screenshot](demo1.png)
+<img width="1152" height="648" alt="demo1" src="https://github.com/user-attachments/assets/8eaab035-747a-4346-b228-544839fbc1d4" />
+
+
+
+
 
 
 

@@ -16,7 +16,12 @@ Features include admin login, CRUD operations for students and grades, average c
 ## 🛠️ How to run (local)
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<Affan>/student-management-system-python.git
+   git clone https://github.com/<Your_name>/student-management-system-python.git
    cd student-management-system-python
+
+   2. ```bash
+   python student_management.py
+
+
 
 

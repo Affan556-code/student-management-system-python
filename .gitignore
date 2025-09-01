@@ -1,0 +1,6 @@
+
+__pycache__/
+*.pyc
+students.json        # ignore runtime data (so each user has their own file)
+.env
+.vscode/
